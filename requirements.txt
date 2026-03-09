@@ -1,0 +1,5 @@
+torch
+diffusers
+soundfile
+huggingface_hub
+torchsde
